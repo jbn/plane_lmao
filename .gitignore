@@ -1,0 +1,4 @@
+.DS_Store
+outputs/
+.conda
+.ipynb_checkpoints
