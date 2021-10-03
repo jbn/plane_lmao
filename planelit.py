@@ -55,7 +55,7 @@ def plot_sampled_survivorship(plane, anchor_points, accept, marker, color, size,
     st.write(fig)
 
 
-st.markdown("## Build your own survivoship bias plane!")
+st.markdown("## Build your own survivorship bias plane!")
 st.markdown("#### More on [survivorship bias](https://en.wikipedia.org/wiki/Survivorship_bias#In_the_military)")
 
 st.markdown("Markers from the Matplotlib API")
